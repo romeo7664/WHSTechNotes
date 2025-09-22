@@ -3,9 +3,8 @@ First time
 
 # September 2, 2025
 Claim  computer  science expectations  Before  going into this class I want to learn more about computers and basics of it .Evidence
-# September 15,2025
+# September 15, 2025
 Claim AI powered website to help to students to assist and discover in local community.Al match students project based interest,skills and specfic needs. Evidenence In the idea meet the challenge requirments focusing on the community. It can collect data match students with organizations to protect the privacy.Reasoning currently students often stuggle to find work, and group projects have diffculty finding reliable help specific tasks.students with real-world experience and a deeper of responsiblity it can strenghten community.
-
-#September 22,2025
+# september 22 2025
 Claim working  in a virtual store for real money is good idea for any future jobs.Evidence: IKEA's experiment on the Roblox platform where they are paying users to work in a virtual IKEA store, stocking shelves and serving customers, demonstrates the viability of this new model. This initiative taps into the large number of young people who already spend significant time on platforms like Roblox, treating their digital lives as important as their physical ones. Evidence: IKEA's experiment on the Roblox platform where they are paying users to work in a virtual IKEA store, stocking shelves and serving customers, demonstrates the viability of this new model. This initiative taps into the large number of young people who already spend significant time on platforms like Roblox, treating their digital lives as important as their physical ones.
 Reasoning: This type of virtual employment is beneficial because it opens up new, accessible employment opportunities for a generation that is digitally native and spends a significant amount of their time online. By creating a virtual space to work, companies like IKEA can reach and recruit a new workforce, potentially offering more flexible and inclusive career paths, which is a positive step for the future of jobs and digital economies. 
