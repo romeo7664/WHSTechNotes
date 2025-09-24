@@ -1,5 +1,9 @@
 # August 27, 2025
 First time
+# september 8, 2025
+Prompt
+Think of a career you’re interested in (e.g., nursing, filmmaking, fashion design, engineering, sports). Describe how computer science could be valuable in that profession. Use an example from the video or one from your own life to support your claim.
+I am intersted in an online fitenss and sports bussiness. Computer Science is very valuable to this profession in my ways. Progress can be tracked. Your niche can be pubished for the world to see. By using computer sciene data can be recorded and analized. Another example is being able to promote your business and collaborate with others. It can also be used as a tool to give advice and feedback.  Computer science can very useful in this career.
 
 # September 2, 2025
 Claim  computer  science expectations  Before  going into this class I want to learn more about computers and basics of it .Evidence
