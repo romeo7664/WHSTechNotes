@@ -14,5 +14,5 @@ Claim working  in a virtual store for real money is good idea for any future job
 Reasoning: This type of virtual employment is beneficial because it opens up new, accessible employment opportunities for a generation that is digitally native and spends a significant amount of their time online. By creating a virtual space to work, companies like IKEA can reach and recruit a new workforce, potentially offering more flexible and inclusive career paths, which is a positive step for the future of jobs and digital economies. 
 # september 30,2025 
 Students frequently say "6,7" during the day to create a lively,energetic atmosphere.They use it in hallways or classrooms to share excitement or to be funny.The phrase acts as a fun,rythmic chant that  unites friends morale.Repeating it helps build a sense of belonging and adda playfulness to their daily interactions.Its upbeat tone makes it memorable and engaging for everyone invovlved.
-# october 6,2025
+# October 6,2025
 If you were in charge of your school, what would your technology and AI policy be? Think about things like cell phones, Chromebooks, AI tools (like ChatGPT), and online games. Should games be blocked, or should certain ones (like math or learning games) be allowed? In 5–7 sentences, explain your rules and why you think they would make school better.
