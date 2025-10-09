@@ -20,3 +20,4 @@ If was in charge of the school techlogy and AI poicy I would balanced technology
 # october 7,2025 - October 9,2025
 Yesterday October 6 I did the sentences and hour code flappy bird
 October 7 voyage  Aquatic is the one I did today.
+October 8,Minecraft Adventuer
