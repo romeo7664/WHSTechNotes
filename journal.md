@@ -21,3 +21,11 @@ If was in charge of the school techlogy and AI poicy I would balanced technology
 Yesterday October 6 I did the sentences and hour code flappy bird
 October 7 voyage  Aquatic is the one I did today.
 October 8,Minecraft Adventuer
+# October 14, 2025
+https://www.canva.com/ai/code/thread/6a3fe715-eb64-47c0-a143-f5f12ddbe7fe
+My prompt was designed to create a understanding educational platform that would teach high school students basketball fundamentals through structured modules, interactive quizzes, and progress tracking, with an academic tone suitable for serious learning. Canva Code interpreted this by building a full-featured learning management system with five detailed instructional modules (dribbling, passing, shooting, defense, and strategy), each containing rich educational content, visual diagrams, and knowledge assessments.
+
+The interactive elements that worked best were the progress tracking system that visually shows completion status, the immediate feedback mechanism in quizzes that provides explanations for both correct and incorrect answers, and the modular structure that allows students to learn at their own pace while building toward a comprehensive final assessment. The quiz system particularly excelled with its smooth animations, clear visual feedback, and educational explanations that reinforce learning.
+
+For future improvements, I could enhance the prompt by requesting more m elements like interactive court diagrams where students can click to identify positions, or simulation exercises where they practice decision-making in game scenarios. I would also specify the need for adaptive learning paths that adjust difficulty based on quiz performance, and perhaps include peer collaboration features where students can discuss strategies or share their progress with teammates.
+
