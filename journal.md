@@ -28,4 +28,9 @@ My prompt was designed to create a understanding educational platform that would
 The interactive elements that worked best were the progress tracking system that visually shows completion status, the immediate feedback mechanism in quizzes that provides explanations for both correct and incorrect answers, and the modular structure that allows students to learn at their own pace while building toward a comprehensive final assessment. The quiz system particularly excelled with its smooth animations, clear visual feedback, and educational explanations that reinforce learning.
 
 For future improvements, I could enhance the prompt by requesting more m elements like interactive court diagrams where students can click to identify positions, or simulation exercises where they practice decision-making in game scenarios. I would also specify the need for adaptive learning paths that adjust difficulty based on quiz performance, and perhaps include peer collaboration features where students can discuss strategies or share their progress with teammates.
-
+# october 20, 2025
+| Name     | Class | Seat |
+| :------- | :---- | :--- |
+| Franklin | 2      |  91A    |
+| Hardeep  |  3     |   61F   |
+| Marla    |     1  |  35B    |
