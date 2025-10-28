@@ -34,3 +34,9 @@ For future improvements, I could enhance the prompt by requesting more m element
 | Franklin | 2      |  91A    |
 | Hardeep  |  3     |   61F   |
 | Marla    |     1  |  35B    |
+# october 28,2025
+| Name     | Main Dish | Dessert |
+| :------- | :-------- | :------ |
+| Fiona    | Gado Gado     |  Creme Brulee       |
+| Tobias   |Shrimp Ceviche  |     French Apple Cake    |
+| Leanne   |Beef Wellington        |   Raspberry Tiramisu      |
