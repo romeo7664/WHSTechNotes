@@ -34,9 +34,11 @@ For future improvements, I could enhance the prompt by requesting more m element
 | Franklin | 2      |  91A    |
 | Hardeep  |  3     |   61F   |
 | Marla    |     1  |  35B    |
-# october 28,2025
+# october 27,2025
 | Name     | Main Dish | Dessert |
 | :------- | :-------- | :------ |
 | Fiona    | Gado Gado     |  Creme Brulee       |
 | Tobias   |Shrimp Ceviche  |     French Apple Cake    |
 | Leanne   |Beef Wellington        |   Raspberry Tiramisu      |
+# November 3, 2025
+Run out of funding means that millions of familles will struggle to afford groceries. Snap is a crucial  lifeline for low -income  households and its affects populations like childeren ,the elderly.and indiduals with disabillites who rely on it for nutritional security.Technology  could help by creating apps or websities that map out local food banks, community kitchens, and pantries this are types of resources.The neext challenges like the digital divde-lack of internet acess or smartphones and privacy  concerns could limit the reach of these tech based solutions.If was a designer I would create a tool called food finder auser- friendly mobile app and web platform that not only lists food resources but also allows users to request  specific food items or assistance, connecting them directly with local charities and voulnteers willing to help.
