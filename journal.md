@@ -46,3 +46,5 @@ Run out of funding means that millions of familles will struggle to afford groce
 Option 2: Gratitude & Growth
 The end of the year is a time to reflect on what you’ve learned. What skills, habits, or moments from this semester that you’re most proud of, and how will you use it to grow next year? Write 5-7 sentences explaining your answer.
 By the the end of the year I want master coding beccause it is a careeer pathway into geeing a job and future also by the of the year I could do this like clock work with out thinking about it.Coding helps on creating a video game and knowing what to do without looking it up or anything. Because next year it is not going to easy It will challengeing and hard not easy like games digining and creating my own app. If use phthon  is is going to be a high level of programming know it is clear and probably going to be simple. I will challenge my self academically  and pesonally setting standers to higher goals. This is how am going to grow next year and become better overtime if I keep getting better as a person.
+# November 17, 2025 
+What look foward in thanksgiving is the food, relaxing ,and having a good time
