@@ -55,3 +55,5 @@ Self- driving  can fail to reconize stopped school their is stop sign school bus
 # December 15, 2025
 My plans for winter break to chill stress free relax clam and smooth also it is my birthday so I am looking foward to thid christmas break.
 The way how used technology in the break is that I use my xbox to play video games . Using online mutiplayer  gaming useing xbox live  gaming experiences shared the service with family and friends. Also use stream enterianment  using my console as watching youtube  netflix and  spodify as they are third partys.Also game pass acess subscriptions  it is large libary of games and  using other devices .
+# januaray 12,2026
+Autocraft was created in 2013  their is kid that is austic that he was faced with bulling and got harassed on a public mincraft servers. It was a bad problem with isolation  their was mincraft players solize with fear of toxicity  which was self harm. Safe spaces is  un  moderated platform which it is becoming trolling. To order to protect the community  they need to deicate kindness staff of being helpers. Developers are making the basics of users of design the protecion of  implement.
