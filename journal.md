@@ -65,3 +65,23 @@ I took the nwea test on Math reading and biology I was focusing on. I passed the
 Maintaining personal hygiene and self-care is essential in shared environments because impacts the health, comfort, and focus of those around us. Good hygiene prevents the spread of illness and ensures that personal odors do not create a distracting or uncomfortable environment, allowing everyone to concentrate on their work or studies without unnecessary discomfort.Loud conversations, strong smells, and distracting behaviors significantly disrupt theflow and comfort of others. Strong odors can cause physical discomfort or allergic reactions, while loud noises or erratic behaviors break concentration, increase stress levels, and create an unprofessional atmosphere that makes it difficult for colleagues or classmates to remain productive. Reasonable maintaining good hygiene, using respectful and inclusive language, keeping conversations at an appropriate volume, and respecting the personal space of others. Furthermore, professionals should exercise emotional self-control, maintain a high awareness of their surroundings to avoid disruptions, and keep shared areas clean and tidy .Self-regulation is a crucial skill because it fosters a positive, respectful, and safe environment conducive to learning and productivity. By managing their own voice, reactions, and behaviors, individuals demonstrate professionalism, reduce interpersonal conflict, and contribute to a harmonious atmosphere where everyone feels safe and respected ] 
 # february 10, 2026
 Yes because the competition and the community makes it interesting  than just being a game.I did watch super bowl. my opion on the superbowl it not that good because some many mistakes and halftimeshow 
+# March 2,2026
+Job #1
+Company: USAA
+Job Title: Software Engineer
+Education Required:
+Bachelor’s degree in Computer Science, Engineering, or related field
+Equivalent combination of education and experience may be accepted
+Experience Required:
+2+ years of software development experience
+Experience working in Agile/Scrum environments
+Skills / Tools / Languages:
+Java, Python, or C++
+Git and version control
+SQL and database knowledge
+Cloud platforms like AWS
+Problem-solving and teamwork skills
+Certifications (if any):
+AWS Certified Developer (preferred, not always required)
+What the job does (1–2 sentences):
+Designs, builds, and maintains software applications that help members manage banking, insurance, and financial services online.would prefer to become a Software Engineer at USAA. One reason is that the job requires programming skills in languages like Java or Python, which are important skills in technology careers. It also requires experience working in teams using Agile methods, which would help me develop communication and teamwork skills. This connects to me because I am interested in technology and problem-solving, and I would like to build apps or systems that people use every day. If I take computer science classes and practice coding, I can meet the education requirements for this job. Overall, becoming a Software Engineer fits my goal of working in tech and continuing to improve my coding skills.
