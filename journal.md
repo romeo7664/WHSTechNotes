@@ -85,5 +85,5 @@ Certifications (if any):
 AWS Certified Developer (preferred, not always required)
 What the job does (1–2 sentences):
 Designs, builds, and maintains software applications that help members manage banking, insurance, and financial services online.would prefer to become a Software Engineer at USAA. One reason is that the job requires programming skills in languages like Java or Python, which are important skills in technology careers. It also requires experience working in teams using Agile methods, which would help me develop communication and teamwork skills. This connects to me because I am interested in technology and problem-solving, and I would like to build apps or systems that people use every day. If I take computer science classes and practice coding, I can meet the education requirements for this job. Overall, becoming a Software Engineer fits my goal of working in tech and continuing to improve my coding skills.
-# March 23, 2026
-How did you choose your bracket (data, opinions, guessing, etc.), and how is it performing so far I would say goob because how guess opions their standing and how many games they win.
+# March 23, 2026 How did you choose your bracket (data, opinions, guessing, etc.), and  
+how is it performing so far I would say good because how guess opions their standing and how many games they win. In marchness there was serveral upsets remain out of more than 36 million entries.
